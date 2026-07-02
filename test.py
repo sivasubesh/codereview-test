@@ -1,4 +1,5 @@
 def add(a, b):
+    # TODO: add input validation
     return a + b
 
 def divide(a, b):
@@ -8,3 +9,5 @@ def divide(a, b):
 
 result = add(10, 5)
 print(result)
+total = divide(20, 4)
+print(total)
